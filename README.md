@@ -53,4 +53,4 @@ It can be replaced with the normal links syntax after successfully closing https
 -->
 
 [mdn web docs]: https://developer.mozilla.org
-[communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
+    [communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
